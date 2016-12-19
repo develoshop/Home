@@ -1,5 +1,5 @@
 body {
-    background-color: silver;
+    background-color: lightgrey;
     font-family: "Trebuchet MS", sans-serif;
     font-size: 1em;
     color: black;
@@ -14,7 +14,7 @@ main {
 }
 
 header {
-    background-color: navy;
+    background-color: darkgrey;
     box-sizing: border-box;
     padding: 2em 1em;
 }
@@ -32,7 +32,7 @@ header h1 {
 }
 
 nav {
-    background-color: maroon;
+    background-color: black;
     box-sizing: border-box;
     font-size: .9em;
 }
